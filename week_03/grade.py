@@ -29,5 +29,5 @@ else :
     elif choice == 'N' :
         print("สอบแก้ไม่ผ่าน")
     else :
-        print('ป้อน Y หรือ N')
+        print('ป้อน Y หรือ N เท่านั้น')
 
